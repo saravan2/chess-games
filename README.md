@@ -1,2 +1,2 @@
 # chess-games
-Moves and gifs
+Moves and gifs of my chess games
